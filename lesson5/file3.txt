@@ -1,0 +1,4 @@
+Ivanov 12000.25
+Petrov 21000.80
+Sidorov 14000.74
+Kuznetcov 29000.65
